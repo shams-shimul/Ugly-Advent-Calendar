@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06j6m7",
+  "description": "https://scrimba.com/javascriptmas-c0javascriptmas/~02cq/s0f4of5j0f/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
